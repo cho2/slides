@@ -2,6 +2,7 @@
 
 | Slide         | Event         |
 | ------------- | ------------- |
+| [Jaminan Kualitas - BlankOn](https://blog.kukuh.syafaat.id/slides/jaminan-kualitas-blankon/jaminan-kualitas-blankon.pdf) | [BlankOn](https://github.com/BlankOn/Verbeek/issues/156) |
 | [Building Upstream Contribution in Local FOSS Community](https://blog.kukuh.syafaat.id/slides/oSLO-2020/oSLO-kukuh_syafaat.pdf) | [openSUSE + LibreOffice Virtual Conference](https://events.opensuse.org/conferences/oSLO/schedule) |
 | [Inkscape l10n](https://blog.kukuh.syafaat.id/slides/Gimpscape-Artweek-2020/inkscape-l10n.pdf) | [Gimpscape Artweek](https://artweek.gimpscape.org/) |
 | [Translating Open Source Apps](https://blog.kukuh.syafaat.id/slides/oSvirtsmt/translating-open-source-apps.pdf) | [openSUSE Virtual Summit](https://events.opensuse.org/conferences/oSvirtsmt) |
